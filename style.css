@@ -1,0 +1,25 @@
+body{
+    background-color: #F8F6F4;
+}
+#navbar{
+    background-color: #C4DFDF;
+}
+#hero{
+    #grad {
+        background-image: linear-gradient(to bottom right, #C4DFDF, #FDCEDF);
+      }
+}
+#aboutme{
+    background-color: #E3F4F4;
+}
+a:link {
+    text-decoration: none;
+  }
+  
+a:visited {
+    text-decoration: none;
+  }
+.contact{
+    background-color: #C4DFDF ;
+}
+  
