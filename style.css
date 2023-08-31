@@ -1,13 +1,8 @@
-body{
-    background-color: #F8F6F4;
-}
 #navbar{
     background-color: #C4DFDF;
 }
 #hero{
-    #grad {
         background-image: linear-gradient(to bottom right, #C4DFDF, #FDCEDF);
-      }
 }
 #aboutme{
     background-color: #E3F4F4;
