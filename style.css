@@ -20,4 +20,7 @@ a:visited {
 body{
     background-color: #FAF3F0;
 }
+.card {
+    min-height: 200px;
+}
   
