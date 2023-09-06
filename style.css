@@ -44,3 +44,6 @@ button{
     padding: 10px;
     border-radius: 10px;
 }
+.card-img-top{
+    object-fit: cover;
+}
