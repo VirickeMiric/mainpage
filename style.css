@@ -47,3 +47,92 @@ button{
 .card-img-top{
     object-fit: cover;
 }
+.body-webdev{
+    font-family: 'Roboto', sans-serif!important ;
+    background-color:  #C4DFDF;
+    overflow-x: hidden;
+}
+.body-webdev>section{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10vh;
+    font-size: 2vh;
+}
+.body-webdev>section>h1{
+    font-size: 5vh;
+    font-variant: small-caps;
+}
+.purple{
+    background-color: #FDCEDF;    
+    text-align: center;
+    font-family: 'Young Serif', serif;
+}
+.purple>p{
+    font-size: 7vh;
+}
+.yellow{
+    background-color: #F8F6F4;
+    font-family: serif;    
+}
+.yellow>p{
+    font-size: 7vh;
+    font-family: 'Young Serif', serif;
+}
+.green{
+    background-color: #C4DFDF;
+    font-family: 'Young Serif', serif;
+}
+.green>p{
+    font-size: 7vh;
+    font-family: 'Yeseva One', serif;    
+}
+.body-light{
+    background-color:#F8F8F8;
+}
+.spacer1{
+        aspect-ratio: 10/1;
+        width: 100%;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+
+}
+.layer1{
+    background-image: url('./images/layered-waves-haikei.svg');
+}
+.layer2{
+    background-image: url('./images/stacked-peaks-haikei.svg');
+}
+.layer3{
+    background-image: url('./images/layered-peaks-haikei.svg');
+}
+.big-welcome{
+    font-size: 10vh;
+    font-family: 'Yeseva One', serif;
+}
+.profile-pic{
+    border-radius: 50%;
+    background-color: #FAF3F0;
+}
+#welcome>blockquote{
+    font-family: 'Young Serif', serif;
+}
+#welcome{
+    background-image: linear-gradient(to top, #C4DFDF, #b0d1ec);
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.what-i-can-do{
+    font-style: serif;
+}
+.hidden{
+    opacity: 0;
+    filter: blur(5px);
+    transition: all 2s;
+}
+.show{
+    opacity: 1;
+    filter: blur(0);
+}
