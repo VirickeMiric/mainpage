@@ -125,7 +125,7 @@ button{
     padding-bottom: 50px;
 }
 .what-i-can-do{
-    font-style: serif;
+    font-family: 'Roboto', sans-serif;
 }
 .hidden{
     opacity: 0;
